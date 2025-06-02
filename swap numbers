@@ -1,6 +1,6 @@
 #swap two numbers
-x= input("Enter any value of X:")
-y= input("Enter any value of Y:")
+x= int(input("Enter any value of X:"))
+y= int(input("Enter any value of Y:"))
 
 temp= x
 x= y
