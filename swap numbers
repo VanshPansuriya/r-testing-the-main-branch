@@ -1,0 +1,10 @@
+#swap two numbers
+x= input("Enter any value of X:")
+y= input("Enter any value of Y:")
+
+temp= x
+x= y
+y= temp
+
+print('the value of X after swaping:',x)
+print("the value of Y after swaping:",y)
